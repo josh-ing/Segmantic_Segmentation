@@ -128,3 +128,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .DS_Store
+
+zip_for_colab.py
+zip_submission.py
+cv_proj5_colab.zip
+jng45.zip
+grayscale_predictions.zip
